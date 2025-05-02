@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 3a5395ae92884f1db38c856118c1880c
+timeCreated: 1702151687
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/StickinFramework/Services/Ads/Admob/AdmobAdWrapper.cs
+  uploadId: 650063

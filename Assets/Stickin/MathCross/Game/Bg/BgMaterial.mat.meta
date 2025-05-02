@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aca2596c6de1c4e55b9d8748b2aa759e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/MathCross/Game/Bg/BgMaterial.mat
+  uploadId: 650063

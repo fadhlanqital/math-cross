@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23419e4011b444714b3ddedb7c27aad3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/MathCross/UI/TextMessage/Animations/InfoTextMenuAnimator.controller
+  uploadId: 650063

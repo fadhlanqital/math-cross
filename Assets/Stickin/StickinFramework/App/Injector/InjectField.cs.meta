@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 314a01764eb794beba225002b9974bee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/StickinFramework/App/Injector/InjectField.cs
+  uploadId: 650063

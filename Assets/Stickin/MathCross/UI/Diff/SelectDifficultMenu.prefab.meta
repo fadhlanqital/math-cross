@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c051181b164fe4006b71144c24912ada
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/MathCross/UI/Diff/SelectDifficultMenu.prefab
+  uploadId: 650063

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cd0fc2220d582406d9d59f426d65a4aa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/StickinFramework/Services/MenusService.cs
+  uploadId: 650063

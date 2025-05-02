@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 5119abb215294ab4aa4bb010599c9e75
+timeCreated: 1700690431
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/MathCross/Game/Game/View/Scripts/TouchableController.cs
+  uploadId: 650063

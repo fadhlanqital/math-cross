@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 454d236739adb48b7b67315dc24f80df
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/StickinFramework/Menus/Animations/PopupLeftRight/PopupLeftRightAnimator.controller
+  uploadId: 650063

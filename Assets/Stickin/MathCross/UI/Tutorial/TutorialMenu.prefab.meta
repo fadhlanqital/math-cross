@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 715f72ca1a0b84722b9cb2e3b2b644c6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/MathCross/UI/Tutorial/TutorialMenu.prefab
+  uploadId: 650063

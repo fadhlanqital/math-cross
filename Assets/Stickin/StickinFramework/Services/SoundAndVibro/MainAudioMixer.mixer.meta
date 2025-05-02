@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 80a88f2c4b830467dbd740a0953ffc5b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/StickinFramework/Services/SoundAndVibro/MainAudioMixer.mixer
+  uploadId: 650063

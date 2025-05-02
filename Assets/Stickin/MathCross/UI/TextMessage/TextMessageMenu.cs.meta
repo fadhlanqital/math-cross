@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f68006453a16542df9cf7961ced197ba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/MathCross/UI/TextMessage/TextMessageMenu.cs
+  uploadId: 650063

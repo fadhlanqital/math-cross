@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 98be3a687164463193375dfca890f6a7
+timeCreated: 1700563519
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/StickinFramework/Game/Interfaces/IGameModule.cs
+  uploadId: 650063

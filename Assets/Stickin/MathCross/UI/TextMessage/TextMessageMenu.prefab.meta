@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8698463fff491428f9c07f618aabf071
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/MathCross/UI/TextMessage/TextMessageMenu.prefab
+  uploadId: 650063

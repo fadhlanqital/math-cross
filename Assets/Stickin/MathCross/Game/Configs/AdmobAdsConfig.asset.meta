@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 76367db46f2a540e880b42e035a5dd17
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/MathCross/Game/Configs/AdmobAdsConfig.asset
+  uploadId: 650063

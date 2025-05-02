@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 70d2d3786ae07423394accf59ef98e41
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/MathCross/UI/Main/MainMenuDiff.prefab
+  uploadId: 650063

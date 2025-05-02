@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bd00ac3f23d624c61afcf3c60b64c799
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/MathCross/UI/Language/LanguageMenu.cs
+  uploadId: 650063

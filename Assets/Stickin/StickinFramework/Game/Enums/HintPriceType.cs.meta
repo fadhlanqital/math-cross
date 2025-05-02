@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 589d72dffc23499e9c2434a5703af412
+timeCreated: 1700560700
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/StickinFramework/Game/Enums/HintPriceType.cs
+  uploadId: 650063

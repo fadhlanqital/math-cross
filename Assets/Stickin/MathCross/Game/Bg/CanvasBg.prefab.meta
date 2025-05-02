@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 84a6af8bf2ccf4745a400097ecd3bc57
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/MathCross/Game/Bg/CanvasBg.prefab
+  uploadId: 650063

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea675a05167c643cd885c62b238bb781
+timeCreated: 1481115418
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/MathCross/Game/Scenes/Logo.unity
+  uploadId: 650063

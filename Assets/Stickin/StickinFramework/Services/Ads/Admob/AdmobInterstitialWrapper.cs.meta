@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 786c0bc9e2de341d2beeb3750ad2b783
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/StickinFramework/Services/Ads/Admob/AdmobInterstitialWrapper.cs
+  uploadId: 650063

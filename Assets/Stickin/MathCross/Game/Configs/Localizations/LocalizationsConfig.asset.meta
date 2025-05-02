@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb847c33dca414cc4af0cf0cd9ecd76b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/MathCross/Game/Configs/Localizations/LocalizationsConfig.asset
+  uploadId: 650063

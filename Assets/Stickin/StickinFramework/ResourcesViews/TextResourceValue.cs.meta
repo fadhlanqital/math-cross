@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2080531e6a06e4e2ca62fb32ace944f8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/StickinFramework/ResourcesViews/TextResourceValue.cs
+  uploadId: 650063

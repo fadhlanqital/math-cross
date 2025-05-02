@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c150b3a620aae4edbb7eb896732b61dc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/MathCross/UI/Spin/Scripts/ButtonSpin.cs
+  uploadId: 650063

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 01260a8f41fa4fdf9f800c47515a1cc0
+timeCreated: 1684315541
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/StickinFramework/Extensions/FloatExtensions.cs
+  uploadId: 650063

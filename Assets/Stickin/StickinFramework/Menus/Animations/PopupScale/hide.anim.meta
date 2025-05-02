@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 73f8b184f60ef49aa8ba0ea99516f1af
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/StickinFramework/Menus/Animations/PopupScale/hide.anim
+  uploadId: 650063

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c178e183154949e8a92fd22b3bb1db91
+timeCreated: 1700561218
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/StickinFramework/Game/Enums/TimerType.cs
+  uploadId: 650063

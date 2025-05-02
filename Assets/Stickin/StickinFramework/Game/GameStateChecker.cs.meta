@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e16b6c50c637a4348bc2f034fc9e277d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/StickinFramework/Game/GameStateChecker.cs
+  uploadId: 650063

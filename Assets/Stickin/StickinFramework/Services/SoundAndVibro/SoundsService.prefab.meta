@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 000916d1cd7994384b42ee2d92ed5bb5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/StickinFramework/Services/SoundAndVibro/SoundsService.prefab
+  uploadId: 650063

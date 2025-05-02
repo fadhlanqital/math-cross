@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: f32282575ee043b18221832053f3cd09
+timeCreated: 1700628994
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/MathCross/Game/Game/Logic/Board.cs
+  uploadId: 650063

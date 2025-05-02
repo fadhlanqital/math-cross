@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0a84357f31e634e58b013d737626711a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/MathCross/Game/Configs/SpinPrizes/Reward_Lamp2.asset
+  uploadId: 650063

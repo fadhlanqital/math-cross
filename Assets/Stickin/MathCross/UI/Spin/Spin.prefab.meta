@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e6fb23b3659d5441288b3fafaad3ec3a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/MathCross/UI/Spin/Spin.prefab
+  uploadId: 650063

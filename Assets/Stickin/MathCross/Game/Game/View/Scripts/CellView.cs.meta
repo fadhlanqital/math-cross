@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: e1b92843f1fd4cf3bca0ec705c7523c4
+timeCreated: 1700359697
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/MathCross/Game/Game/View/Scripts/CellView.cs
+  uploadId: 650063

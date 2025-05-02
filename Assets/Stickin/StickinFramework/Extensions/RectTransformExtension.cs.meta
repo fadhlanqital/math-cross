@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c448ebd421eb47cfb1be7199df02ee94
+timeCreated: 1676635462
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/StickinFramework/Extensions/RectTransformExtension.cs
+  uploadId: 650063

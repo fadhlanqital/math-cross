@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 098a1ab25bffe49c68e9d9bd17708469
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/StickinFramework/Menus/Buttons/Animations/Scale/Selected.anim
+  uploadId: 650063

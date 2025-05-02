@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1cafa5f3498d94ae1a9e1c8d45589618
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/MathCross/UI/Spin/Animations/IconAnimator.controller
+  uploadId: 650063

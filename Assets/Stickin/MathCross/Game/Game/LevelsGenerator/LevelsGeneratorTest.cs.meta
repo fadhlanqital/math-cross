@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a09ad0f3240244a9699bf019502c1909
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/MathCross/Game/Game/LevelsGenerator/LevelsGeneratorTest.cs
+  uploadId: 650063

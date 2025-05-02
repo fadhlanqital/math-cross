@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d2d415a8ed06e4462b2a7a42fd971170
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270891
+  packageName: Math Cross Game
+  packageVersion: 1.0
+  assetPath: Assets/Stickin/MathCross/Game/Game/View/CellView.prefab
+  uploadId: 650063
